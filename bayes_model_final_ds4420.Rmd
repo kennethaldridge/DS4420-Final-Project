@@ -1,0 +1,19 @@
+---
+title: "bayes_model_final_ds4420"
+author: "Kenneth Aldridge, Andrew Sun, Esha Parikh"
+date: "2026-04-08"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## DS 4420 Final Project
+## Bayesian ML Model
+## Kenneth Aldridge, Andy Sun, Esha Parikh
+
+```{r}
+# Libraries for model
+library(brms)
+```
